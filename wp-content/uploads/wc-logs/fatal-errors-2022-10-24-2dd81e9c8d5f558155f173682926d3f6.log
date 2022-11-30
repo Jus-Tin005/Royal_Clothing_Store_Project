@@ -1,0 +1,60 @@
+2022-10-24T09:07:35+00:00 CRITICAL Uncaught Error: Undefined constant "OCEANWP_THEME_VERSION" in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php:179
+Stack trace:
+#0 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(307): Ocean_Admin_Bar->enqueue_css('index.php')
+#1 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\projectfour\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\projectfour\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'index.php')
+#4 C:\xampp\htdocs\projectfour\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php on line 179
+
+2022-10-24T09:07:44+00:00 CRITICAL Uncaught Error: Undefined constant "OCEANWP_THEME_VERSION" in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php:179
+Stack trace:
+#0 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(307): Ocean_Admin_Bar->enqueue_css('index.php')
+#1 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\projectfour\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\projectfour\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'index.php')
+#4 C:\xampp\htdocs\projectfour\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php on line 179
+
+2022-10-24T09:28:18+00:00 CRITICAL Uncaught Error: Undefined constant "OCEANWP_THEME_VERSION" in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php:179
+Stack trace:
+#0 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(307): Ocean_Admin_Bar->enqueue_css('theme-install.p...')
+#1 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\projectfour\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\projectfour\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'theme-install.p...')
+#4 C:\xampp\htdocs\projectfour\wp-admin\theme-install.php(145): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php on line 179
+
+2022-10-24T09:28:24+00:00 CRITICAL Uncaught Error: Undefined constant "OCEANWP_THEME_VERSION" in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php:179
+Stack trace:
+#0 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(307): Ocean_Admin_Bar->enqueue_css('theme-install.p...')
+#1 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\projectfour\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\projectfour\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'theme-install.p...')
+#4 C:\xampp\htdocs\projectfour\wp-admin\theme-install.php(145): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php on line 179
+
+2022-10-24T09:28:42+00:00 CRITICAL Uncaught Error: Undefined constant "OCEANWP_THEME_VERSION" in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php:179
+Stack trace:
+#0 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(307): Ocean_Admin_Bar->enqueue_css('index.php')
+#1 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\projectfour\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\projectfour\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'index.php')
+#4 C:\xampp\htdocs\projectfour\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php on line 179
+
+2022-10-24T09:29:05+00:00 CRITICAL Uncaught Error: Undefined constant "OCEANWP_THEME_VERSION" in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php:179
+Stack trace:
+#0 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(307): Ocean_Admin_Bar->enqueue_css('index.php')
+#1 C:\xampp\htdocs\projectfour\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\projectfour\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\projectfour\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'index.php')
+#4 C:\xampp\htdocs\projectfour\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\admin-bar\admin-bar.php on line 179
+

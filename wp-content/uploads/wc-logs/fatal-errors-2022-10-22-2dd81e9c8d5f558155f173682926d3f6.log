@@ -1,0 +1,102 @@
+2022-10-22T08:02:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-admin\includes\class-wp-list-table-compat.php on line 68
+
+2022-10-22T08:02:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\wp-db.php on line 2169
+
+2022-10-22T08:02:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementor\core\base\background-task-manager.php on line 8
+
+2022-10-22T08:02:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\functions.php on line 3023
+
+2022-10-22T08:02:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementskit-lite\widgets\countdown-timer\countdown-timer.php on line 7
+
+2022-10-22T08:02:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementor\includes\autoloader.php on line 286
+
+2022-10-22T08:02:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:02:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-admin\includes\class-wp-site-health.php on line 2856
+
+2022-10-22T08:02:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementskit-lite\widgets\team\team-handler.php on line 32
+
+2022-10-22T08:02:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 96
+
+2022-10-22T08:02:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\wp-db.php on line 2169
+
+2022-10-22T08:03:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\wp-db.php on line 2169
+
+2022-10-22T08:03:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\google-listings-and-ads\vendor\google\apiclient-services\src\ShoppingContent\Resource\Freelistingsprogram.php on line 64
+
+2022-10-22T08:03:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementskit-lite\widgets\testimonial\testimonial.php on line 7
+
+2022-10-22T08:03:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\ActionScheduler_AsyncRequest_QueueRunner.php on line 18
+
+2022-10-22T08:03:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\wp-optimize\vendor\rosell-dk\webp-convert\src\Convert\Converters\Imagick.php on line 53
+
+2022-10-22T08:03:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\woocommerce\src\Internal\Admin\WCAdminSharedSettings.php on line 8
+
+2022-10-22T08:03:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:03:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:04:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\ActionScheduler_AsyncRequest_QueueRunner.php on line 18
+
+2022-10-22T08:06:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\google-listings-and-ads\vendor\google\apiclient-services\src\ShoppingContent\Resource\Shoppingadsprogram.php on line 64
+
+2022-10-22T08:06:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\google-listings-and-ads\vendor\symfony\validator\Validation.php on line 97
+
+2022-10-22T08:06:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\jetpack\modules\videopress\class.videopress-gutenberg.php on line 205
+
+2022-10-22T08:06:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\themes\oceanwp\inc\third\class-amp.php on line 12
+
+2022-10-22T08:06:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementor\includes\settings\settings.php on line 11
+
+2022-10-22T08:06:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementor\modules\safe-mode\module.php on line 11
+
+2022-10-22T08:07:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementor\includes\editor-templates\library-layout.php on line 2
+
+2022-10-22T08:07:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\elementskit-lite\widgets\social-share\social-share.php on line 7
+
+2022-10-22T08:07:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\widgets\twitter.php on line 9
+
+2022-10-22T08:07:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\vendor-prefixed\symfony\validator\Validator\RecursiveContextualValidator.php on line 3
+
+2022-10-22T08:07:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\wp-db.php on line 2169
+
+2022-10-22T08:07:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php on line 523
+
+2022-10-22T08:11:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:12:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\lib\Cron\ActionScheduler\Actions\DaemonRun.php on line 88
+
+2022-10-22T08:12:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\lib\Cron\ActionScheduler\Actions\DaemonRun.php on line 88
+
+2022-10-22T08:12:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\ocean-extra\includes\menu-icons\includes\library\compat.php on line 7
+
+2022-10-22T08:12:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:12:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:13:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:13:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:13:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\wp-optimize\vendor\rosell-dk\webp-convert\src\Convert\Converters\Imagick.php on line 53
+
+2022-10-22T08:14:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:14:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\functions.php on line 4529
+
+2022-10-22T08:14:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\lib\Cron\ActionScheduler\Actions\DaemonRun.php on line 88
+
+2022-10-22T08:14:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\lib\Config\Installer.php on line 83
+
+2022-10-22T08:14:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:15:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\dbal\lib\Doctrine\DBAL\Connection.php on line 710
+
+2022-10-22T08:15:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-10-22T08:15:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\ActionScheduler_AsyncRequest_QueueRunner.php on line 18
+
+2022-10-22T08:15:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\wp-optimize\vendor\rosell-dk\webp-convert\src\Convert\Converters\Imagick.php on line 53
+
+2022-10-22T08:15:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\projectfour\wp-content\plugins\jetpack\_inc\lib\core-api\wpcom-endpoints\class-wpcom-rest-api-v2-endpoint-external-media.php on line 535
+

@@ -1,0 +1,30 @@
+2022-10-17T05:27:04+00:00 ERROR Incorrect response from Mailchimp API with: stdClass Object
+(
+    [code] => mailchimp-error
+    [message] => A MailChimp error has occurred.
+    [data] => stdClass Object
+        (
+            [type] => https://mailchimp.com/developer/marketing/docs/errors/
+            [title] => Resource Not Found
+            [status] => 404
+            [detail] => The requested resource could not be found.
+            [instance] => 6fa82b0f-bdf3-ef03-e34b-d20e6aa9fa70
+        )
+
+)
+
+2022-10-17T06:22:21+00:00 ERROR Incorrect response from Mailchimp API with: stdClass Object
+(
+    [code] => mailchimp-error
+    [message] => A MailChimp error has occurred.
+    [data] => stdClass Object
+        (
+            [type] => https://mailchimp.com/developer/marketing/docs/errors/
+            [title] => Resource Not Found
+            [status] => 404
+            [detail] => The requested resource could not be found.
+            [instance] => 2e664feb-4b72-4fac-ada0-b4ea58ac1a2c
+        )
+
+)
+
